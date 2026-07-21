@@ -1,5 +1,21 @@
 # 🚀 Project Catalyst
 
+## Table of Contents
+
+- Welcome
+- Mission
+- Vision
+- Engineering Principles
+- Roadmap
+- Technology Stack
+- Repository Structure
+- Current Focus
+- Future Goals
+- Philosophy
+- Looking Ahead
+
+---
+
 > **Code with Purpose. Grow with Passion.**
 
 **Project Motto**
@@ -100,16 +116,58 @@ Current and planned technologies include:
 
 ---
 
-## What You'll Find Here
+## Repository Structure
 
-* Professional software projects
-* Engineering experiments
-* Interactive games
-* AI explorations
-* Technical documentation
-* Lessons learned
-* Architecture decisions
-* Career milestones
+📂 docs/                 Documentation and engineering notes
+📂 projects/             Software applications
+📂 experiments/          Learning exercises and prototypes
+📂 resources/            Reference material and templates
+📂 assets/               Images and media
+README.md                Project overview
+
+---
+
+## 🌱 Current Focus
+
+Milestone 1 — Foundation
+
+Current objectives:
+
+- Establish engineering standards
+- Learn GitHub Projects
+- Create repository workflows
+- Design first software project
+
+  
+  ## Progress
+
+Milestone 1 — Foundation
+
+██████░░░░░░ 45%
+
+---
+
+## Future Goals
+
+Upcoming milestones include:
+
+- Java Engineering Arcade
+- Project Catalyst Website
+- AI Playground
+- SQL Escape Room
+- Cloud Deployment
+
+---
+
+## Why "Project Catalyst"?
+
+A catalyst accelerates change without being consumed by it.
+
+This project exists to accelerate my growth as a software engineer through purposeful learning, challenging projects, and continuous improvement.
+
+Project Catalyst is not the destination.
+
+It is the force that drives the journey.
 
 ---
 
@@ -130,3 +188,4 @@ As I learn new technologies, tackle more complex challenges, and gain profession
 ---
 
 > **Every commit tells a story. Every project teaches a lesson. Every challenge is an opportunity to grow.**
+
